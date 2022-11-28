@@ -1,0 +1,14 @@
+server:
+ port: 8092
+spring:
+ application:
+  name: MICRO-WALLE 
+ jpa:
+  database: MYSQL
+  show-sql: true
+ datasource:
+  url: jdbc:mysql://us-east.connect.psdb.cloud/walle?sslMode=VERIFY_IDENTITY
+  username: evpckku7jus4xrvnshtc
+  password: pscale_pw_bKB4ZBWO0zclDAroZLbaU7PvdCBpFElnic6xJmVxIBX
+
+
